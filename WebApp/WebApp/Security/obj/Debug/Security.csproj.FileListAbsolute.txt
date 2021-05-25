@@ -1,0 +1,7 @@
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Security\bin\Debug\Security.dll
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Security\bin\Debug\Security.pdb
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Security\bin\Debug\DatabaseLayer.dll
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Security\bin\Debug\DatabaseLayer.pdb
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Security\obj\Debug\Security.dll
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Security\obj\Debug\Security.pdb

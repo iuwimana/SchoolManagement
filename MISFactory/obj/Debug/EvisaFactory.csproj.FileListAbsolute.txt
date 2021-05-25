@@ -1,0 +1,16 @@
+C:\E\Projects\Evisa\EvisaFactory\bin\Debug\databaseconfig.xml
+C:\E\Projects\Evisa\EvisaFactory\bin\Debug\ReserveFactory.dll
+C:\E\Projects\Evisa\EvisaFactory\bin\Debug\ReserveFactory.pdb
+C:\E\Projects\Evisa\EvisaFactory\bin\Debug\DatabaseLayer.dll
+C:\E\Projects\Evisa\EvisaFactory\bin\Debug\DatabaseLayer.pdb
+C:\E\Projects\Evisa\EvisaFactory\obj\Debug\EvisaFactory.csprojResolveAssemblyReference.cache
+C:\E\Projects\Evisa\EvisaFactory\obj\Debug\ReserveFactory.dll
+C:\E\Projects\Evisa\EvisaFactory\obj\Debug\ReserveFactory.pdb
+C:\E\Projects\Horizon\EvisaFactory\bin\Debug\databaseconfig.xml
+C:\E\Projects\Horizon\EvisaFactory\bin\Debug\ReserveFactory.dll
+C:\E\Projects\Horizon\EvisaFactory\bin\Debug\ReserveFactory.pdb
+C:\E\Projects\Horizon\EvisaFactory\bin\Debug\DatabaseLayer.dll
+C:\E\Projects\Horizon\EvisaFactory\bin\Debug\DatabaseLayer.pdb
+C:\E\Projects\Horizon\EvisaFactory\obj\Debug\EvisaFactory.csprojResolveAssemblyReference.cache
+C:\E\Projects\Horizon\EvisaFactory\obj\Debug\ReserveFactory.dll
+C:\E\Projects\Horizon\EvisaFactory\obj\Debug\ReserveFactory.pdb

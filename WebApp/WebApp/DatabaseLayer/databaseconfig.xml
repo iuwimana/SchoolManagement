@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <Setting name="database" value="IPPISDB"/>
+  <Setting name="server" value="172.27.8.8"/>
+  <Setting name="user" value="ippisuser"/>
+  <Setting name="password" value="4430xxY6gK6a1IbQXmxhpA=="/>
+</Settings>

@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\RNMU\Globals\bin\Release\databaseconfig.xml
+C:\Users\PC\Desktop\RNMU\Globals\bin\Release\Globals.dll
+C:\Users\PC\Desktop\RNMU\Globals\bin\Release\Globals.pdb
+C:\Users\PC\Desktop\RNMU\Globals\bin\Release\Security.dll
+C:\Users\PC\Desktop\RNMU\Globals\bin\Release\DatabaseLayer.dll
+C:\Users\PC\Desktop\RNMU\Globals\bin\Release\Security.pdb
+C:\Users\PC\Desktop\RNMU\Globals\bin\Release\DatabaseLayer.pdb
+C:\Users\PC\Desktop\RNMU\Globals\obj\Release\Globals.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\RNMU\Globals\obj\Release\Globals.dll
+C:\Users\PC\Desktop\RNMU\Globals\obj\Release\Globals.pdb

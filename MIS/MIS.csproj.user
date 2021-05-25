@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Users\PC\Desktop\RNMU\</ReferencePath>
+    <PublishUrlHistory>ftp://10.10.96.231/App/|ftp://www.rnmumembership.rw/App/|ftp://www.rnmumembership.rw/|http://www.rnmumembership.rw/|ftp://197.243.16.4/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.rnmumembership.rw/App/|http://www.rnmumembership.rw/Apps/|http://www.rnmumembership.rw/|\\10.22.226.51\Evisa\</InstallUrlHistory>
+    <SupportUrlHistory>http://www.rnmumembership.rw/App/|http://www.rnmumembership.rw/Apps/</SupportUrlHistory>
+    <UpdateUrlHistory>http://www.rnmumembership.rw/App/|http://www.rnmumembership.rw/Apps/|\\MANZI-PC\Publish\|\\10.22.226.51\Evisa\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+  </PropertyGroup>
+</Project>

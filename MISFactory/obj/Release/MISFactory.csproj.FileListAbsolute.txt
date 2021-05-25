@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\RNMU\MISFactory\bin\Release\databaseconfig.xml
+C:\Users\PC\Desktop\RNMU\MISFactory\bin\Release\ReserveFactory.dll
+C:\Users\PC\Desktop\RNMU\MISFactory\bin\Release\ReserveFactory.pdb
+C:\Users\PC\Desktop\RNMU\MISFactory\bin\Release\DatabaseLayer.dll
+C:\Users\PC\Desktop\RNMU\MISFactory\bin\Release\DatabaseLayer.pdb
+C:\Users\PC\Desktop\RNMU\MISFactory\obj\Release\MISFactory.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\RNMU\MISFactory\obj\Release\ReserveFactory.dll
+C:\Users\PC\Desktop\RNMU\MISFactory\obj\Release\ReserveFactory.pdb

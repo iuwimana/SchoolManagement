@@ -1,0 +1,8 @@
+C:\E\Projects\Reserve\ReserveFactory\bin\Debug\databaseconfig.xml
+C:\E\Projects\Reserve\ReserveFactory\bin\Debug\ReserveFactory.dll
+C:\E\Projects\Reserve\ReserveFactory\bin\Debug\ReserveFactory.pdb
+C:\E\Projects\Reserve\ReserveFactory\bin\Debug\DatabaseLayer.dll
+C:\E\Projects\Reserve\ReserveFactory\bin\Debug\DatabaseLayer.pdb
+C:\E\Projects\Reserve\ReserveFactory\obj\Debug\ReserveFactory.csprojResolveAssemblyReference.cache
+C:\E\Projects\Reserve\ReserveFactory\obj\Debug\ReserveFactory.dll
+C:\E\Projects\Reserve\ReserveFactory\obj\Debug\ReserveFactory.pdb

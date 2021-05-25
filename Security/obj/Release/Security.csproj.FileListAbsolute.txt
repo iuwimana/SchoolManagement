@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\RNMU\Security\bin\Release\databaseconfig.xml
+C:\Users\PC\Desktop\RNMU\Security\bin\Release\Security.dll
+C:\Users\PC\Desktop\RNMU\Security\bin\Release\Security.pdb
+C:\Users\PC\Desktop\RNMU\Security\bin\Release\DatabaseLayer.dll
+C:\Users\PC\Desktop\RNMU\Security\bin\Release\DatabaseLayer.pdb
+C:\Users\PC\Desktop\RNMU\Security\obj\Release\Security.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\RNMU\Security\obj\Release\Security.dll
+C:\Users\PC\Desktop\RNMU\Security\obj\Release\Security.pdb

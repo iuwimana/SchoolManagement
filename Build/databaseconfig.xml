@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<!--<Setting name="database" value="RNMU"/>
+  <Setting name="server" value="10.10.96.231"/>-->
+	<Setting name="database" value="SMISDB"/>
+  <Setting name="server" value="DESKTOP-TIENAUN"/>
+  <!--<Setting name="user" value="rnmuuser"/>
+  <Setting name="password" value="/dR0QEAYvOLpr7AD770hbw=="/>-->
+<Setting name="user" value="ippisuser"/>
+  <Setting name="password" value="4430xxY6gK6a1IbQXmxhpA=="/>
+</Settings>

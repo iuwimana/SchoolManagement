@@ -1,0 +1,9 @@
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\bin\Debug\Globals.dll
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\bin\Debug\Globals.pdb
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\bin\Debug\Security.dll
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\bin\Debug\DatabaseLayer.dll
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\bin\Debug\Security.pdb
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\bin\Debug\DatabaseLayer.pdb
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\obj\Debug\Globals.csprojResolveAssemblyReference.cache
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\obj\Debug\Globals.dll
+C:\Users\hakaimo\Documents\Visual Studio 2015\Projects\WebApp\Globals\obj\Debug\Globals.pdb

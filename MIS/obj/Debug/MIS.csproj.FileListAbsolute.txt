@@ -1,0 +1,495 @@
+C:\E\Projects\Horizon\Evisa\obj\Debug\MIS.csprojResolveAssemblyReference.cache
+C:\E\Projects\Horizon\Evisa\obj\Debug\Interop.AcroPDFLib.dll
+C:\E\Projects\Horizon\Evisa\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\E\Projects\Horizon\Evisa\obj\Debug\MIS.csproj.ResolveComReference.cache
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.AboutForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.AddDepartmentsForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.AddRanksForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.AddStaffsForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.AddStaffTypesForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.AuditTrailForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.ChangePasswordForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.DepartmentsForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.LoginForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.MDIParent.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.Properties.Resources.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.RanksForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.ReportViewerForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.RoleForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.RolePermissionsForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.RolesForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.SearchEmployeeForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.SearchUserForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.SecurableForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.SecurablePermissionsForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.SecurablesForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.SelectRolesForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.StaffsForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.StaffTypesForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.UserForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.UserRolesForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.UsersForm.resources
+C:\E\Projects\Horizon\Evisa\obj\Debug\MIS.csproj.GenerateResource.Cache
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.exe.licenses
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.exe.manifest
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.application
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.exe
+C:\E\Projects\Horizon\Evisa\obj\Debug\Evisa.pdb
+C:\E\Projects\Horizon\Build\databaseconfig.xml
+C:\E\Projects\Horizon\Build\MIS.exe.config
+C:\E\Projects\Horizon\Build\MIS.exe.manifest
+C:\E\Projects\Horizon\Build\MIS.application
+C:\E\Projects\Horizon\Build\MIS.exe
+C:\E\Projects\Horizon\Build\MIS.pdb
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.csprojResolveAssemblyReference.cache
+C:\E\Projects\Horizon\MIS\obj\Debug\Interop.AcroPDFLib.dll
+C:\E\Projects\Horizon\MIS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.csproj.ResolveComReference.cache
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.AboutForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.LoginForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.MDIParent.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.RanksForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.RoleForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.RolesForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.UserForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.UsersForm.resources
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.csproj.GenerateResource.Cache
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.exe.licenses
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.exe.manifest
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.application
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.exe
+C:\E\Projects\Horizon\MIS\obj\Debug\MIS.pdb
+C:\E\Projects\Startoff_Project\Build\databaseconfig.xml
+C:\E\Projects\Startoff_Project\Build\MIS.exe.config
+C:\E\Projects\Startoff_Project\Build\MIS.exe.manifest
+C:\E\Projects\Startoff_Project\Build\MIS.application
+C:\E\Projects\Startoff_Project\Build\MIS.exe
+C:\E\Projects\Startoff_Project\Build\MIS.pdb
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.csprojResolveAssemblyReference.cache
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\Interop.AcroPDFLib.dll
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.csproj.ResolveComReference.cache
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.AboutForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.LoginForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.MDIParent.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.RanksForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.RoleForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.RolesForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.UserForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.UsersForm.resources
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.csproj.GenerateResource.Cache
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.exe.licenses
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.exe.manifest
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.application
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.exe
+C:\E\Projects\Startoff_Project\MIS\obj\Debug\MIS.pdb
+C:\E\Projects\RNMU\Build\databaseconfig.xml
+C:\E\Projects\RNMU\Build\MIS.exe.config
+C:\E\Projects\RNMU\Build\MIS.exe.manifest
+C:\E\Projects\RNMU\Build\MIS.application
+C:\E\Projects\RNMU\Build\MIS.exe
+C:\E\Projects\RNMU\Build\MIS.pdb
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.csprojResolveAssemblyReference.cache
+C:\E\Projects\RNMU\MIS\obj\Debug\Interop.AcroPDFLib.dll
+C:\E\Projects\RNMU\MIS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.csproj.ResolveComReference.cache
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AboutForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AddBankAccountForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AddContributionForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.BankAccountsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.ContributionsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.LoginForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.MDIParent.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.MemberReportForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.RanksForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.RNMUReportForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.RoleForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.RolesForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.UserForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.UsersForm.resources
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.csproj.GenerateResource.Cache
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.exe.licenses
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.exe.manifest
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.application
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.exe
+C:\E\Projects\RNMU\MIS\obj\Debug\MIS.pdb
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.csprojAssemblyReference.cache
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.exe
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.pdb
+C:\Users\MIFOTRA\Desktop\RNMU\Build\databaseconfig.xml
+C:\Users\MIFOTRA\Desktop\RNMU\Build\MIS.exe.config
+C:\Users\MIFOTRA\Desktop\RNMU\Build\MIS.exe.manifest
+C:\Users\MIFOTRA\Desktop\RNMU\Build\MIS.application
+C:\Users\MIFOTRA\Desktop\RNMU\Build\MIS.exe
+C:\Users\MIFOTRA\Desktop\RNMU\Build\MIS.pdb
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.ResolveComReference.cache
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AboutForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AddBankAccountForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AddContributionForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.BankAccountsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.ContributionsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.LoginForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.MDIParent.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.MemberReportForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.RanksForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.RNMUReportForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.RoleForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.RolesForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.UserForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.UsersForm.resources
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.GenerateResource.cache
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.exe.licenses
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CoreCompileInputs.cache
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.exe.manifest
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.application
+C:\Users\MIFOTRA\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CopyComplete
+C:\Users\hakaimo\Desktop\RNMU\Build\MIS.exe.config
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.ResolveComReference.cache
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.exe
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.pdb
+C:\Users\hakaimo\Desktop\RNMU\Build\databaseconfig.xml
+C:\Users\hakaimo\Desktop\RNMU\Build\MIS.exe.manifest
+C:\Users\hakaimo\Desktop\RNMU\Build\MIS.application
+C:\Users\hakaimo\Desktop\RNMU\Build\MIS.exe
+C:\Users\hakaimo\Desktop\RNMU\Build\MIS.pdb
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AboutForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AddBankAccountForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AddContributionForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.BankAccountsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.ContributionsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.LoginForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.MDIParent.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.MemberReportForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.RanksForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.RNMUReportForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.RoleForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.RolesForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.UserForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.UsersForm.resources
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.GenerateResource.Cache
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.exe.licenses
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.exe.manifest
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.application
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.csprojAssemblyReference.cache
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CoreCompileInputs.cache
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CopyComplete
+C:\Users\hakaimo\Desktop\RNMU\MIS\obj\Debug\MIS.ReportingDashboard.resources
+C:\Users\PC\Desktop\Desktop\RNMU\Build\databaseconfig.xml
+C:\Users\PC\Desktop\Desktop\RNMU\Build\MIS.exe.config
+C:\Users\PC\Desktop\Desktop\RNMU\Build\MIS.exe.manifest
+C:\Users\PC\Desktop\Desktop\RNMU\Build\MIS.application
+C:\Users\PC\Desktop\Desktop\RNMU\Build\MIS.exe
+C:\Users\PC\Desktop\Desktop\RNMU\Build\MIS.pdb
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AboutForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AddBankAccountForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AddContributionForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.BankAccountsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.ContributionsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.LoginForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.MDIParent.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.MemberReportForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.RanksForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.ReportingDashboard.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.RNMUReportForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.RoleForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.RolesForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.UserForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.UsersForm.resources
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.exe.licenses
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.exe.manifest
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.application
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CopyComplete
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.exe
+C:\Users\PC\Desktop\Desktop\RNMU\MIS\obj\Debug\MIS.pdb
+C:\Users\PC\Desktop\RNMU\Build\databaseconfig.xml
+C:\Users\PC\Desktop\RNMU\Build\MIS.exe.config
+C:\Users\PC\Desktop\RNMU\Build\MIS.exe.manifest
+C:\Users\PC\Desktop\RNMU\Build\MIS.application
+C:\Users\PC\Desktop\RNMU\Build\MIS.exe
+C:\Users\PC\Desktop\RNMU\Build\MIS.pdb
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AboutForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AddBankAccountForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AddContributionForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.BankAccountsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.ContributionsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.LoginForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.MDIParent.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.MemberReportForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.RanksForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.ReportingDashboard.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.RNMUReportForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.RoleForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.RolesForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.UserForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.UsersForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.exe.licenses
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.exe.manifest
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.application
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.exe
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.pdb
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.StaffCategory.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.WebPortalUserForm.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.AddWebUser.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.serchwebuser.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.UserWorkingPlace.resources
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.UploadStaffInfo.resources
+C:\Users\PC\Desktop\RNMU\Build\MIS.xml
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RNMU\MIS\obj\Debug\MIS.csproj.CopyComplete
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\Build\databaseconfig.xml
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\Build\MIS.exe.config
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\Build\MIS.exe.manifest
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\Build\MIS.application
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\Build\MIS.xml
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\Build\MIS.exe
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\Build\MIS.pdb
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AboutForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AddBankAccountForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AddContributionForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AddWebUser.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.BankAccountsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.ContributionsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.LoginForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.MDIParent.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.MemberReportForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.RanksForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.ReportingDashboard.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.RNMUReportForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.RoleForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.RolesForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.serchwebuser.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.StaffCategory.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.UploadStaffInfo.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.UserForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.UsersForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.UserWorkingPlace.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.WebPortalUserForm.resources
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.exe.licenses
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.exe.manifest
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.application
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.csproj.CopyComplete
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.exe
+C:\Users\PC\Desktop\AllDesktop Project\RNMU\MIS\obj\Debug\MIS.pdb
+C:\Users\PC\Desktop\schooll system\Build\databaseconfig.xml
+C:\Users\PC\Desktop\schooll system\Build\MIS.exe.config
+C:\Users\PC\Desktop\schooll system\Build\MIS.exe.manifest
+C:\Users\PC\Desktop\schooll system\Build\MIS.application
+C:\Users\PC\Desktop\schooll system\Build\MIS.xml
+C:\Users\PC\Desktop\schooll system\Build\MIS.exe
+C:\Users\PC\Desktop\schooll system\Build\MIS.pdb
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AboutForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AddBankAccountForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AddContributionForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AddDepartmentsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AddRanksForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AddStaffsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AddStaffTypesForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AddWebUser.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.AuditTrailForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.BankAccountsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.ChangePasswordForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.ContributionsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.DepartmentsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.LoginForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.MDIParent.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.MemberReportForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.Properties.Resources.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.RanksForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.ReportingDashboard.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.ReportViewerForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.RNMUReportForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.RoleForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.RolePermissionsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.RolesForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.SearchEmployeeForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.SearchUserForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.SecurableForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.SecurablePermissionsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.SecurablesForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.SelectRolesForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.serchwebuser.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.StaffCategory.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.StaffsForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.StaffTypesForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.UploadStaffInfo.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.UserForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.UserRolesForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.UsersForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.UserWorkingPlace.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.WebPortalUserForm.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.exe.licenses
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.exe.manifest
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.application
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.csproj.CopyComplete
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.exe
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.pdb
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.FrmSchoolcs.resources
+C:\Users\PC\Desktop\schooll system\MIS\obj\Debug\MIS.FrmAddSchool.resources

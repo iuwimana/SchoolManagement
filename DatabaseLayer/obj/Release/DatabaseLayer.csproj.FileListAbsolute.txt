@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\RNMU\DatabaseLayer\bin\Release\databaseconfig.xml
+C:\Users\PC\Desktop\RNMU\DatabaseLayer\bin\Release\DatabaseLayer.dll
+C:\Users\PC\Desktop\RNMU\DatabaseLayer\bin\Release\DatabaseLayer.pdb
+C:\Users\PC\Desktop\RNMU\DatabaseLayer\obj\Release\DatabaseLayer.dll
+C:\Users\PC\Desktop\RNMU\DatabaseLayer\obj\Release\DatabaseLayer.pdb
